@@ -1,0 +1,11 @@
+fastapi[standard-no-fastapi-cloud-cli]
+pandas==2.3.3
+scikit-learn==1.7.2
+joblib
+matplotlib
+transformers
+datasets
+evaluate
+accelerate
+sentencepiece
+safetensors

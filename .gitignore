@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset / local data
+data/
+
+# Model weights
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Hugging Face cache
+.cache/
+huggingface_cache/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Model artifacts / trained models
+models/
+
+# Archive and local analysis outputs
+archive/
+reports/
